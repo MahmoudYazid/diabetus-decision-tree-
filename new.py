@@ -38,5 +38,22 @@ for arr in collection_arr:
     print()
     n+=1
 
+"""
+[0]   expected   :   0   True
 
+[0]   expected   :   1   False
 
+[0]   expected   :   0   True
+
+[1]   expected   :   1   True
+
+[0]   expected   :   0   True
+
+[0]   expected   :   0   True
+
+[0]   expected   :   0   True
+
+[0]   expected   :   0   True
+
+[1]   expected   :   1   True
+"""
