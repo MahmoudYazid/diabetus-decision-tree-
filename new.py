@@ -1,7 +1,7 @@
 from sklearn import tree
 import pandas as pd
 import numpy as np
-data = pd.read_csv("C:\\Users\\ahmed\\Desktop\\pyprojects\\diabetes.csv")
+data = pd.read_csv("diabetes.csv")
 
 
 y = np.array(data['Outcome'])
