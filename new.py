@@ -37,7 +37,29 @@ for arr in collection_arr:
           result_test[n], " ", result_test[n]==newprd[0])
     print()
     n+=1
+    
+#while using pregnancy(not have an indicated inforamation)
+"""
+[0]   expected   :   0   True
 
+[0]   expected   :   1   False
+
+[0]   expected   :   0   True
+
+[1]   expected   :   1   True
+
+[0]   expected   :   0   True
+
+[0]   expected   :   0   True
+
+[0]   expected   :   1   False
+
+[0]   expected   :   0   True
+
+[1]   expected   :   1   True
+"""
+
+#after not calculate pregnancy
 """
 [0]   expected   :   0   True
 
